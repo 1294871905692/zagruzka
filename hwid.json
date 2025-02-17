@@ -1,8 +1,8 @@
 {
     "users": [
         { "hwid":"34650608062320", "username":"admin1", "till":"never1" },
-        { "hwid":"3465128062320123", "username":"admin2", "till":"never2" },
-        { "hwid":"3468932798520312", "username":"admin3", "till":"never3" },
+        { "hwid":"15465128062320123", "username":"admin2", "till":"never2" },
+        { "hwid":"6668932798520312", "username":"admin3", "till":"never3" },
         { "hwid":"34650608062320312aaaa", "username":"user3", "till":"nikogda" }
      ]
  } 
