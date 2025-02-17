@@ -2,6 +2,7 @@
     "users": [
         { "hwid":"34650608062320", "username":"admin1", "till":"never1" },
         { "hwid":"34650608062320123", "username":"admin2", "till":"never2" },
-        { "hwid":"34650608062320312", "username":"admin3", "till":"never3" }
+        { "hwid":"34650608062320312", "username":"admin3", "till":"never3" },
+        { "hwid":"34650608062320312aaaa", "username":"user3", "till":"nikogda" }
      ]
  } 
