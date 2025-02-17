@@ -1,9 +1,5 @@
 {
     "users": [
-        { "hwid":"34650608062320", "username":"admin1", "till":"never1", "banned": false },
-        { "hwid":"3054014811084", "username":"user1", "till":"never1", "banned": true },
-        { "hwid":"3054014811084", "username":"user2", "till":"never2", "banned": true },
-        { "hwid":"30540148110841", "username":"user12", "till":"never12", "banned": true },
-        { "hwid":"3054014811084", "username":"user3", "till":"never3", "banned": true }
+        { "hwid":"34650608062320", "username":"admin1", "till":"never1", "banned": false }
      ]
  } 
