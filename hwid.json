@@ -2,8 +2,8 @@
     "users": [
         {
             "hwid": "34650608062320",
-            "username": "admin1",
-            "till": "never1",
+            "username": "admin",
+            "till": "-",
             "banned": false
         }
     ]
