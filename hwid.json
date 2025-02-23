@@ -5,6 +5,12 @@
             "username": "admin",
             "till": "-",
             "banned": false
+        },
+        {
+            "hwid": "34650608062322",
+            "username": "user",
+            "till": "-",
+            "banned": false
         }
     ]
 }
